@@ -14,8 +14,8 @@ This is a fork of [Angular Seed](https://github.com/angular/angular-seed) but wi
 
 ## Installation
 
-    git clone git@github.com:tnajdek/angular-requirejs-seed.git
-    cd angular-requirejs-seed
+    git clone --depth=1 https://github.com/rojasjandro89/angular-requirejs-seed.git <your-project-name>
+    cd <your-project-name>
     npm install
 
 ## Running
